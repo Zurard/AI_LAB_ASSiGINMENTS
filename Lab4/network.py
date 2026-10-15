@@ -1,6 +1,5 @@
 import pandas as pd
 from pgmpy.causal_discovery import HillClimbSearch
-
 from pgmpy.models import DiscreteBayesianNetwork
 
 import warnings
